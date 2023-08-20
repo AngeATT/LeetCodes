@@ -5,7 +5,8 @@ import java.util.Arrays;
 
 /**
  * <p>Given an array arr[] of size N. The task is to find the sum of the contiguous subarray within
- * a arr[] with the largest sum.</p>
+ * a arr[] with the largest sum. <a href="https://leetcode.com/problems/maximum-subarray/">lien</a>
+ * </p>
  *
  * @author Attoungbre Ange François 2023-08-18
  */
